@@ -1,0 +1,16 @@
+D:\FranciscoFlorentino\CURSOS\DIO\BootCamp\MRV\dio-mrvnetdevepoler\console01\bin\Debug\net5.0\console01.exe
+D:\FranciscoFlorentino\CURSOS\DIO\BootCamp\MRV\dio-mrvnetdevepoler\console01\bin\Debug\net5.0\console01.deps.json
+D:\FranciscoFlorentino\CURSOS\DIO\BootCamp\MRV\dio-mrvnetdevepoler\console01\bin\Debug\net5.0\console01.runtimeconfig.json
+D:\FranciscoFlorentino\CURSOS\DIO\BootCamp\MRV\dio-mrvnetdevepoler\console01\bin\Debug\net5.0\console01.runtimeconfig.dev.json
+D:\FranciscoFlorentino\CURSOS\DIO\BootCamp\MRV\dio-mrvnetdevepoler\console01\bin\Debug\net5.0\console01.dll
+D:\FranciscoFlorentino\CURSOS\DIO\BootCamp\MRV\dio-mrvnetdevepoler\console01\bin\Debug\net5.0\ref\console01.dll
+D:\FranciscoFlorentino\CURSOS\DIO\BootCamp\MRV\dio-mrvnetdevepoler\console01\bin\Debug\net5.0\console01.pdb
+D:\FranciscoFlorentino\CURSOS\DIO\BootCamp\MRV\dio-mrvnetdevepoler\console01\obj\Debug\net5.0\console01.csprojAssemblyReference.cache
+D:\FranciscoFlorentino\CURSOS\DIO\BootCamp\MRV\dio-mrvnetdevepoler\console01\obj\Debug\net5.0\console01.GeneratedMSBuildEditorConfig.editorconfig
+D:\FranciscoFlorentino\CURSOS\DIO\BootCamp\MRV\dio-mrvnetdevepoler\console01\obj\Debug\net5.0\console01.AssemblyInfoInputs.cache
+D:\FranciscoFlorentino\CURSOS\DIO\BootCamp\MRV\dio-mrvnetdevepoler\console01\obj\Debug\net5.0\console01.AssemblyInfo.cs
+D:\FranciscoFlorentino\CURSOS\DIO\BootCamp\MRV\dio-mrvnetdevepoler\console01\obj\Debug\net5.0\console01.csproj.CoreCompileInputs.cache
+D:\FranciscoFlorentino\CURSOS\DIO\BootCamp\MRV\dio-mrvnetdevepoler\console01\obj\Debug\net5.0\console01.dll
+D:\FranciscoFlorentino\CURSOS\DIO\BootCamp\MRV\dio-mrvnetdevepoler\console01\obj\Debug\net5.0\ref\console01.dll
+D:\FranciscoFlorentino\CURSOS\DIO\BootCamp\MRV\dio-mrvnetdevepoler\console01\obj\Debug\net5.0\console01.pdb
+D:\FranciscoFlorentino\CURSOS\DIO\BootCamp\MRV\dio-mrvnetdevepoler\console01\obj\Debug\net5.0\console01.genruntimeconfig.cache
