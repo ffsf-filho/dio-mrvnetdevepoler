@@ -1,5 +1,5 @@
 ﻿using System;
-using Classes.Heranca
+using Classes.Heranca;
 namespace Classes
 {
     class Program
