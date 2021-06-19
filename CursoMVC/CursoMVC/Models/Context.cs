@@ -14,5 +14,10 @@ namespace CursoMVC.Models
         {
             optionsBuilder.UseSqlServer("Server=CET-021155\\SQLEXPRESS; Database=Cursomvc;  Persist Security info=true; User ID=cursos; Password=Cursos");
         }
+
+        public virtual void SetModified(object entity)
+        {
+            Entry(entity).State = EntityState.Modified;
+        }
     }
 }
