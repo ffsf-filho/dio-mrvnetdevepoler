@@ -23,5 +23,12 @@
             <param name="LoginViewModelInput">View model do login</param>
             <returns>Retorna status ok, dados do usuario e o token em caso de suesso</returns>
         </member>
+        <member name="M:curso.api.Controllers.UsuarioController.Registrar(curso.api.Controllers.RegistroViewModelInput)">
+            <summary>
+            Este serviço permite autenticar um usuário cadastrado e ativo.
+            </summary>
+            <param name="RegistroViewModelInput">View model do registro de login</param>
+            <returns>Retorna status ok, dados do usuario e o token em caso de suesso</returns>
+        </member>
     </members>
 </doc>
